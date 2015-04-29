@@ -61,10 +61,11 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Michael Baikov
 * Michael Snoyman
 * Miëtek Bak
+* Neil Bartlett
 * Neil Mitchell
 * Pat Brisbin
 * Philipp Kant
 * Renzo Carbonara
 * Simon Marlow
+* Steven Shaw
 * Vincent Hanquez
-* Neil Bartlett
